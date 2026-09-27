@@ -52,34 +52,7 @@ Built with **React 19**, **Vite**, **TypeScript**, and **Tailwind CSS**, it feat
 - Node.js (v18.0.0 or higher recommended)
 - npm, yarn, or pnpm
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/kecrwn/Temporarytestsheet.git
-   cd Temporarytestsheet
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Configure environment variables (optional):**
-   ```bash
-   cp .env.example .env.local
-   ```
-
-4. **Start the local development server:**
-   ```bash
-   npm run dev
-   ```
-
-5. **Open in browser:**
-   Visit `http://localhost:3000` to explore the storefront.
-
----
-
+#
 ## 📦 Build & Production
 
 To generate an optimized production bundle:
@@ -99,3 +72,9 @@ npm run preview
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+<div align="center">
+  <hr style="border: none; border-top: 1px solid #eaeaea; margin: 20px 0;" />
+  <sub>Built by Alixen Developers</sub>
+</div>

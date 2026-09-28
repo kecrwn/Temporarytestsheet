@@ -32,13 +32,6 @@ graph TD;
     App --> Auth[Identity & Security Auth];
     App --> DB[(Primary Database)];
     App --> WA[WhatsApp Fulfillment API];
-    
-    style Client fill:#000000,stroke:#333,stroke-width:2px,color:#fff
-    style Edge fill:#111111,stroke:#333,stroke-width:2px,color:#fff
-    style App fill:#222222,stroke:#C2181C,stroke-width:2px,color:#fff
-    style Auth fill:#000000,stroke:#333,stroke-width:2px,color:#fff
-    style DB fill:#000000,stroke:#333,stroke-width:2px,color:#fff
-    style WA fill:#25D366,stroke:#128C7E,stroke-width:2px,color:#fff
 ```
 
 <br />
